@@ -1,3 +1,8 @@
+"""
+Author: Julian Saavedra
+GitHub: jfsaaved
+"""
+
 class NumArray(object):
     def __init__(self, nums):
         """
