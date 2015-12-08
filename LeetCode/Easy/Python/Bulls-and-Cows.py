@@ -1,3 +1,8 @@
+"""
+Author: Julian Saavedra
+GitHub: jfsaaved
+"""
+
 class Solution(object):
 
     def getHint(self, secret, guess):
