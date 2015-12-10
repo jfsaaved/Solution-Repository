@@ -5,4 +5,4 @@ Problem | From | Difficulty | Language | Link
 ------------ | ------------- | ------------- | ------------- | -------------
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | LeetCode | Easy | Python | [Solution](https://github.com/jfsaaved/Solution-Repository/blob/master/LeetCode/Easy/Python/Bulls-and-Cows.py)
 [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | LeetCode | Easy | Python | [Solution](https://github.com/jfsaaved/Solution-Repository/blob/master/LeetCode/Easy/Python/Range-Sum-Query-Immutable.py)
-[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | LeetCode | Easy | Python | [Solution](https://github.com/jfsaaved/Solution-Repository/blob/master/LeetCode/Easy/Python/Range-Sum-Query-Immutable.py)
+[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | LeetCode | Easy | Python | [Solution](https://github.com/jfsaaved/Solution-Repository/blob/master/LeetCode/Easy/Python/Move-Zeroes.py)
