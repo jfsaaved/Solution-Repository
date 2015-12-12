@@ -3,6 +3,7 @@ Author: Julian Saavedra
 GitHub: jfsaaved
 """
 
+
 class Solution(object):
 
     def getHint(self, secret, guess):
@@ -38,7 +39,6 @@ class Solution(object):
                 secret_map[guess_item] -= 1
 
         return "{}A{}B".format(bull, cow)
-
 
 test = Solution()
 print(test.getHint('1', '0'))

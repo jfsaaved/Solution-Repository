@@ -3,6 +3,7 @@ Author: Julian Saavedra
 GitHub: jfsaaved
 """
 
+
 class NumArray(object):
     def __init__(self, nums):
         """
@@ -31,8 +32,6 @@ class NumArray(object):
             return self.sum[j]
         else:
             return self.sum[j] - self.sum[i-1]
-
-
 
 numArray = NumArray([-2,0,3,-5,2,-1])
 print(numArray.sumRange(0, 2))

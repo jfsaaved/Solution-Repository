@@ -3,6 +3,7 @@ Author: Julian Saavedra
 GitHub: jfsaaved
 """
 
+
 class Solution(object):
     def moveZeroes(self, nums):
         """
@@ -29,7 +30,6 @@ class Solution(object):
         '''
 
         print(nums)
-
 
 sol = Solution()
 sol.moveZeroes([0, 0, 1])
