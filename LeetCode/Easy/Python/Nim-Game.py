@@ -1,7 +1,5 @@
-"""
-Author: Julian Saavedra
-GitHub: jfsaaved
-"""
+# Author: Julian Saavedra
+# GitHub: jfsaaved
 
 
 class Solution(object):
