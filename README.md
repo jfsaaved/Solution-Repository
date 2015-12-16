@@ -9,3 +9,4 @@ Problem | From | Difficulty | Language | Link
 [Nim Game](https://leetcode.com/problems/nim-game/) | LeetCode | Easy | Python | [Solution](https://github.com/jfsaaved/Solution-Repository/blob/master/LeetCode/Easy/Python/Nim-Game.py)
 [Word Pattern](https://leetcode.com/problems/word-pattern/) | LeetCode | Easy | Python | [Solution](https://github.com/jfsaaved/Solution-Repository/blob/master/LeetCode/Easy/Python/Word%20Pattern.py)
 [First Bad Version](https://leetcode.com/problems/first-bad-version/) | LeetCode | Easy | Python | [Solution](https://github.com/jfsaaved/Solution-Repository/blob/master/LeetCode/Easy/Python/First-Bad-Version.py)
+[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | LeetCode | Medium | Python | [Solution](https://github.com/jfsaaved/Solution-Repository/blob/master/LeetCode/Medium/Python/Remove-Duplicate-Letters.py)
